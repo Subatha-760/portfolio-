@@ -17,9 +17,8 @@
 
 ## 🚀 Projects
 
-- 🤖 **Digital Lab Assistant** – A smart assistant designed to support lab environments, helping streamline tasks, guide users through procedures, and reduce manual overhead
-
----
+- 🤖 Time Table Scheduler
+ A Time Table Scheduler is a system that automatically creates a timetable by arranging classes, subjects, teachers, and classrooms without conflicts.
 
 ## 🏆 Certifications
 
